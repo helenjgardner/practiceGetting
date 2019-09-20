@@ -3,7 +3,7 @@
 const Book = require("./Book");
 // eslint-disable-next-line no-unused-vars
 const catalogue = [
-    new Book("The Catcher in the Rye", "J.D. Salinger", 10),
+    new Book("rhe Catcher in the Rye", "J.D. Salinger", 10),
     new Book("Dracula", "Bram Stoker", 0),
     new Book("Between the Assassinations", "Aravind Adiga", 9),
     new Book("Wolf Hall", "Hilary Mantel", 33),
